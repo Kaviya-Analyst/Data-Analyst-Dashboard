@@ -1,7 +1,9 @@
 # Hotstar Analytics in Power BI Dashboard
 I am excited to share my Data Analysis project. 
 This project was a great opportunity to apply my skills in data analysis in SQL, data visualization, and Power BI.
+
 # Dataset used
+
 -<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard/blob/main/disney_plus_shows.csv">Dataset</a>
 
 # Project Objective: Jio/Hotstar OTT Analytics Dashboard (Power BI)
@@ -52,7 +54,7 @@ The objective of this project is to design and develop an interactive Power BI d
 
 -Streaming platforms like Disney+ Hotstar offer thousands of shows and movies, but:
 
--The content catalog is massive and fragmented — it’s difficult to track what type of content dominates the platform.
+-The content catalog is massive and fragmented it’s difficult to track what type of content dominates the platform.
 
 -Understanding audience preferences across countries and languages is a challenge.
 
@@ -65,3 +67,27 @@ The objective of this project is to design and develop an interactive Power BI d
 ![Screenshot 2025-04-05 192309](https://github.com/user-attachments/assets/cff00a7b-e2c1-4a8e-be4b-e21195f3f054)
 
 ![Screenshot 2025-04-05 192223](https://github.com/user-attachments/assets/2aa93866-b4b9-4ceb-aee0-3668786f65de)
+
+# Project insights
+
+-User preferences vary significantly by region, with certain genres and languages dominating in specific countries, indicating the need for localized content strategies.
+
+-Series have shown a steady increase in viewership over time, suggesting that long-form content may be more engaging or binge-worthy compared to movies.
+
+-Top-rated content is consistently associated with specific genres and directors, revealing potential patterns in audience expectations and content quality.
+
+-The majority of high-performing content was released in recent years, indicating that users prefer newer content and stay engaged with fresh releases.
+
+-Action, Drama, and Comedy emerged as the most popular genres, with strong performance across various demographics.
+
+-There is a clear seasonality in content consumption, with spikes during holidays or major content releases, suggesting ideal windows for launching new shows or marketing campaigns.
+
+-A few directors and actors repeatedly appear in top-performing content, highlighting the impact of star power on user engagement.
+
+-Language diversity plays a crucial role, with multilingual content showing broader reach and higher engagement across user bases.
+
+# Final Conclusion 
+
+This Power BI dashboard effectively consolidates and visualizes critical data related to user engagement, content performance, and regional preferences on an OTT platform like Jio or Hotstar. By analyzing key metrics such as watch time, content ratings, genre popularity, and user demographics, the dashboard enables stakeholders to make data-driven decisions.
+
+The insights derived from the dashboard support strategic planning in areas like content acquisition, personalized recommendations, marketing campaigns, and platform optimization. Overall, this solution demonstrates the power of interactive data visualization in enhancing operational efficiency and improving customer experience within the digital streaming industry.
