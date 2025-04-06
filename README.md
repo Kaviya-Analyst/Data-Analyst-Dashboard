@@ -1,2 +1,3 @@
 # Data-Analyst-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process Involved several stages, Including data preprocessing, data cleaning, and data visualization.
+I am excited to share my Data Analysis project. 
+This project was a great opportunity to apply my skills in data analysis in SQL, data visualization, and Power BI.
