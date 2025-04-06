@@ -2,7 +2,7 @@
 I am excited to share my Data Analysis project. 
 This project was a great opportunity to apply my skills in data analysis in SQL, data visualization, and Power BI.
 # Dataset used
--<a href="https://www.kaggle.com/datasets/sanjanaalaham/disney-hotstar-dataset/code">Dataset</a>
+-<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard/blob/main/disney_plus_shows.csv">Dataset</a>
 
 # Project Objective: Jio/Hotstar OTT Analytics Dashboard (Power BI)
 
