@@ -34,10 +34,7 @@ The objective of this project is to design and develop an interactive Power BI d
 
 -How has the volume and type of content released changed over the years?
 
--Dashboard Interaction <a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(1).png">View Dashboard</a>
--<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(4).png">View Dashboard</a>
--<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(3).png">View Dashboard</a>
--<a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard-/blob/main/download%20(3).png">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/Kaviya-Analyst/Data-Analyst-Dashboard/blob/main/Screenshot%202025-04-05%20192309.png">View My PowerBi Dashboard</a>
 
 # Process
 
@@ -62,3 +59,9 @@ The objective of this project is to design and develop an interactive Power BI d
 -Identifying top-rated or most engaging genres and release trends requires deep visual analysis.
 
 -Content planners struggle to spot genre saturation, rating trends, or runtime patterns without an interactive dashboard.
+
+# Dashboard
+
+![Screenshot 2025-04-05 192309](https://github.com/user-attachments/assets/cff00a7b-e2c1-4a8e-be4b-e21195f3f054)
+
+![Screenshot 2025-04-05 192223](https://github.com/user-attachments/assets/2aa93866-b4b9-4ceb-aee0-3668786f65de)
